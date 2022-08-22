@@ -1,0 +1,12 @@
+.templates{
+    background-image: url('../asset/splash/bg-image/splash3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2,18rem);
+    grid-auto-rows: minmax(150px,auto);
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}

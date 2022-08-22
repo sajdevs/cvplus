@@ -1,0 +1,14 @@
+.brand-title{
+    padding-left: 2rem;
+    color: rgb(50, 150, 100);
+}
+.links{
+    padding-left: 1rem;
+    text-decoration: none;
+    color: #fff;
+}
+.links:hover{
+    color: rgb(50, 150, 100);
+    font-style: italic;
+    font-weight: bold;
+}

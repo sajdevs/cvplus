@@ -1,0 +1,16 @@
+
+.t-two-header .header-top{
+    padding: 0px;
+    margin: 0px;
+    color: #fff;
+    background-color: rgb(10, 29, 46);
+    text-align: center;
+}
+.t-two-header .header-bottom{
+     justify-content: space-between;
+     display: flex;
+}
+.t-two-header .header-bottom img{
+    width: 100px;
+    height: 80px;
+}
